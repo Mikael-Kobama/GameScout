@@ -40,12 +40,6 @@ Agradecemos a todos que contribuíram para este projeto! Se você gostou do Game
 
 **Vamos juntos explorar o mundo dos games!** 
 
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando informações mais específicas sobre as funcionalidades, tecnologias utilizadas e como contribuir.
-* **Imagens:** Inclua imagens para deixar o README mais atrativo e visual.
-* **Links:** Adicione links para o repositório, issues e outras informações relevantes.
-* **Humor:** Use uma linguagem descontraída e divertida para tornar o README mais interessante.
 
 **Este é apenas um exemplo, você pode criar um README ainda mais completo e personalizado para o seu projeto!**
 
